@@ -9,7 +9,7 @@ We are a dedicated research team at Dominican University, focused on developing 
 
 ## Meet the Team
 ### Faculty
-- **Sara Quinn**, Lead, Rosary College of Arts and Sciences, [Email](squinn@dom.edu)
+- **Sara Quinn**, Rosary College of Arts and Sciences, [Email](squinn@dom.edu)
 - **Ariel Rogers**, Rosary College of Arts and Sciences, [Email](arogers2@dom.edu)
 - **Kevin Murphy**, Rosary College of Arts and Sciences, [Email](kmurphy3@dom.edu)
 

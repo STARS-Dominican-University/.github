@@ -14,11 +14,15 @@ We are a dedicated research team at Dominican University, focused on developing 
 - **Kevin Murphy**, Rosary College of Arts and Sciences, [Email](kmurphy3@dom.edu)
 
 ### Students
-- **Pablo Cesar Bedolla Ortiz**, Mathematics, Aerospace Engineering, Team Lead, Research Team, [Email](pbedollaortiz@my.dom.edu)
-- **Julio Rodriguez**, Computer Science, Team Lead, Research Team, [Email](Jrodriguez29@my.dom.edu)
-- **Kevin Ruiz**, Civil Engineering, Lead, Engineering Team, [Email](kevinaruiz9@gmail.com)
-- **Bri Palma**, Mechanical Engineering, Co-lead, Engineering Team, [Email](bpalam@my.dom.edu)
-- **Kacper Rogalski**, Mathematics, Math Lead, Research Team, [Email](durude121@gmail.com)
-- **Marlon Selvi**, Computer Science, Lead, Software Team, [Email](Marlonsb0502@gmail.com)
-- **Jorge Cano**, Computer Science, Lead, Software Team, [Email](jcano1@my.dom.edu)
+- **Pablo Cesar Bedolla Ortiz**, Founder, Mathematics, Aerospace Engineering, Research Team, [Email](pbedollaortiz@my.dom.edu)
+- **Julio Rodriguez**, Founder, Computer Science, Software Team, [Email](Jrodriguez29@my.dom.edu)
+- **Kevin Ruiz**, Civil Engineering, Engineering Team, [Email](kevinaruiz9@gmail.com)
+- **Bri Palma**, Mechanical Engineering, Engineering Team, [Email](bpalam@my.dom.edu)
+- **Kacper Rogalski**, Mathematics, Research Team, [Email](durude121@gmail.com)
+- **Marlon Selvi**, Computer Science, Software Team, [Email](Marlonsb0502@gmail.com)
+- **Jorge Cano**, Computer Science, Software Team, [Email](jcano1@my.dom.edu)
+- **Lorena Murguia**, English, Project Management, [Email](lmurguia@my.dom.edu)
+- **Allison Pea**, Fashion Merchandising, Project Management, [Email](allisonpea@icloud.com)
+
+
 

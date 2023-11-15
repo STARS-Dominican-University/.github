@@ -24,5 +24,7 @@ We are a dedicated research team at Dominican University, focused on developing 
 - **Jorge Cano**, Computer Science, Software Team, [Email](jcano1@my.dom.edu)
 - **Lorena Murguia**, English, Project Management, [Email](lmurguia@my.dom.edu)
 - **Allison Pea**, Fashion Merchandising, Project Management, [Email](allisonpea@icloud.com)
+- **Gillian Adkins**, English, Project Management, [Email](g.adkins943@gmail.com)
+
 
 

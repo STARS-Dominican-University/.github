@@ -18,11 +18,11 @@ We are a dedicated research team at Dominican University, focused on developing 
 - **Julio Rodriguez**, Founder, Computer Science, Software Team, [Email](Jrodriguez29@my.dom.edu)
 - **Kevin Ruiz**, Civil Engineering, Engineering Team, [Email](kevinaruiz9@gmail.com)
 - **Bri Palma**, Mechanical Engineering, Engineering Team, [Email](bpalam@my.dom.edu)
+- **Aaron Jimenez Gomez**, Mathematics & Computer Science, Computer Engineering, Software Team, [Email](aaronjimenezg4@gmail.com)
 - **Kacper Rogalski**, Mathematics, Research Team, [Email](durude121@gmail.com)
 - **Marlon Selvi**, Computer Science, Software Team, [Email](Marlonsb0502@gmail.com)
 - **Jorge Cano**, Computer Science, Software Team, [Email](jcano1@my.dom.edu)
 - **Lorena Murguia**, English, Project Management, [Email](lmurguia@my.dom.edu)
 - **Allison Pea**, Fashion Merchandising, Project Management, [Email](allisonpea@icloud.com)
-- **Aaron Jimenez Gomez**, Mathematics & Computer Science, Computer Engineering, Software Team, [Email](aaronjimenezg4@gmail.com)
 
 

@@ -17,7 +17,6 @@ We are a dedicated research team at Dominican University, focused on developing 
 - **Pablo Cesar Bedolla Ortiz**, Founder, Mathematics, Aerospace Engineering, Research Team, [Email](pbedollaortiz@my.dom.edu)
 - **Julio Rodriguez**, Founder, Computer Science, Software Team, [Email](Jrodriguez29@my.dom.edu)
 - **Kevin Ruiz**, Civil Engineering, Engineering Team, [Email](kevinaruiz9@gmail.com)
-- **Bri Palma**, Mechanical Engineering, Engineering Team, [Email](bpalam@my.dom.edu)
 - **Aaron Jimenez Gomez**, Mathematics & Computer Science, Computer Engineering, Software Team, [Email](aaronjimenezg4@gmail.com)
 - **Kacper Rogalski**, Mathematics, Research Team, [Email](durude121@gmail.com)
 - **Marlon Selvi**, Computer Science, Software Team, [Email](Marlonsb0502@gmail.com)

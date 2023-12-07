@@ -1,6 +1,6 @@
 # Hi, We're STARS: Science and Technology Applications for Research in Space at Dominican University
 
-Our concept focuses on automating the monitoring of lunar conditions to enhance astronaut safety and pinpoint optimal base locations. We aim to maintain a continuous process of data analysis concerning the lunar surface’s topography, radiation levels, and atmospheric conditions, and potentially extend this approach to other celestial surfaces. In addition, NASA’s groundbreaking projects often incur substantial financial costs, and recent budget cuts have underscored the need for innovative and cost-effective solutions. Given the impending Artemis missions, our proposal aligns with the aim of assisting both scientifically and financially in these endeavors. 
+Our focus remains on automating the monitoring of lunar conditions in order to maintain an ongoing process of harvesting sensor data. We solely focus on lunar topography. NASA's pioneering projects necessitate cost-effective solutions, given recent budget reductions. Our official proposal, “Integration of LIDAR Technology for Self- Sufficient Lunar Sensors,” aims to contribute both scientifically and frugally to these initiatives. Our device would relay valuable topographic information to scientists. With a large-scale adoption of our device, a detailed, continually updated, topographic map of the lunar surface could be transmitted for analysis.
 
 
 ## Who We Are

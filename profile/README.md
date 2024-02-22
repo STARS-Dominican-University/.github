@@ -24,6 +24,6 @@ We are a dedicated research team at Dominican University, focused on developing 
 - **Lorena Murguia**, English, Project Management, [Email](lmurguia@my.dom.edu)
 - **Allison Pea**, Fashion Merchandising, Project Management, [Email](allisonpea@icloud.com)
 - **Gillian Adkins**, English, Project Management, [Email](g.adkins943@gmail.com)
-
+- **Alexander Navarrete**, Mathematics & Computer Science, Software Team, [Email](anavarretealvarez@my.dom.edu)
 
 
